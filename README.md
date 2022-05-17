@@ -3,6 +3,7 @@
 - 🔭 No momento presente, sou estagiário pela EGOV
 - 🌱 Estudando banco de dados, containers e NodeJS
 - 📚 Conhecimento em JS/HTML/CSS/PHP com Postgres/MySQL 
+- 📩 Contato: leonlima2000@gmail.com
 - ⚡ Tenho sede por conhecimento 👨‍💻
 
 <div align="center">
