@@ -1,6 +1,6 @@
 ### Olá! sou o Leon Ribeiro 👋
 
-- 🔭 No momento presente, sou estagiário pela EGOV
+- 🔭 Formado em Análise e desenvolvimento de Sistemas
 - 🌱 Estudando banco de dados, containers e NodeJS
 - 📚 Conhecimento em JS/HTML/CSS/PHP com Postgres/MySQL 
 - 📩 Contato: leonlima2000@gmail.com
