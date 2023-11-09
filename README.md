@@ -1,8 +1,8 @@
 ### Olá! sou o Leon Ribeiro 👋
 
 - 🔭 Formado em Análise e desenvolvimento de Sistemas
-- 🌱 Estudando banco de dados, containers e NodeJS
-- 📚 Conhecimento em JS/HTML/CSS/PHP com Postgres/MySQL 
+- 🌱 Atualmente desenvolvendo com: JS, Angular, MongoDB e NodeJS
+- 📚 Conhecimento em JS/Angular/CSS/PHP - MongoDB/Node/MySql
 - 📩 Contato: leonlima2000@gmail.com
 - ⚡ Tenho sede por conhecimento 👨‍💻
 
