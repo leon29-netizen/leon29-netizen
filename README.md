@@ -2,7 +2,7 @@
 
 - 🔭 Formado em Análise e desenvolvimento de Sistemas
 - 🌱 Atualmente desenvolvendo com: JS, Angular, MongoDB e NodeJS
-- 📚 Conhecimento em JS/Angular/CSS/PHP - MongoDB/Node/MySql
+- 📚 Conhecimento em JS/Angular/CSS - MongoDB/Node/MySql
 - 📩 Contato: leonlima2000@gmail.com
 - ⚡ Tenho sede por conhecimento 👨‍💻
 
